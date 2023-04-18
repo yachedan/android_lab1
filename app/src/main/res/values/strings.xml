@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="roll">Roll</string>
+    <string name="d8">d8</string>
+    <string name="d6">d6</string>
+</resources>
